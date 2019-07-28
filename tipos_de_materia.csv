@@ -1,0 +1,7 @@
+Tipo,Nombre,Descripcion,Shape
+0,Obligatoria,Obligatoria,rect
+1,Gestion,Orientaci&#243;n en\nGesti&#243;n Industrial\nde Sistemas,Mdiamond
+2,Distribuidos,Orientaci&#243;n en\nSistemas\nDistribuidos,Msquare
+3,Produccion,Orientaci&#243;n\nen\nSistemas\nde\nProducci&#243;n,Mcircle
+4,Electiva,Electiva,note
+
